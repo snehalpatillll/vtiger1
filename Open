@@ -6,3 +6,7 @@
 <p>pune</p>
 <p>maharashrta</P>
 </html>
+driver .manage().window().getsize();
+driver .manage().window().getsize();
+driver .manage().window().getsize();
+driver .manage().window().getsize();s
